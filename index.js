@@ -474,3 +474,4 @@ This is a multi-line comment
 // callback(message);
 // }
 // setmessage("hi dear!", displayconsole);
+console.console.log("sajad");
